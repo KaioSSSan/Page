@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #fff;
+}
+
+
+a {
+    text-decoration: none;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+.wrapper{
+
+
+background: #7E7EF5;
+background: linear-gradient(315deg, #7E7EF5, #2DC48E);
+    width: 100%;
+}
+
+
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+
+header{
+    padding: 50px 0;
+}
+header .logo {
+    text-transform: uppercase;
+}
+.hero-FavoriteBook .info{
+
+    width: 500px;
+    padding: 50px 0;
+}
